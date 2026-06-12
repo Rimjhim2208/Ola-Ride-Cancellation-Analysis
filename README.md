@@ -195,11 +195,11 @@ ola-ride-cancellation-analysis/
 
 ## 👩‍💻 Author
 
-**[Your Name]**  
+**[Rimjhim Chawla]**  
 Aspiring Data Analyst | Power BI | Excel | SQL  
-📧 [your.email@gmail.com]  
-🔗 [LinkedIn Profile URL]  
-🐙 [GitHub Profile URL]
+📧 [rimjhimchawla22@gmail.com]  
+🔗 [www.linkedin.com/in/rimjhim-chawla-1994112b8]  
+🐙 [https://github.com/Rimjhim2208]
 
 ---
 
