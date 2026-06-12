@@ -92,16 +92,13 @@ Ola NCR recorded a **32% cancellation rate** in 2024, resulting in an estimated 
 
 ## 📋 Dashboard Pages
 
-### Page 1 — Overview
+### Page 1 — Overview and cancellation deep dive and location
 > KPI cards, Booking Status distribution, Rides by Vehicle Type
 
-### Page 2 — Cancellation Deep Dive
 > Customer cancellation reasons, Driver cancellation reasons, Treemap by vehicle type, Incomplete ride reasons
 
-### Page 3 — Time Analysis
+### Page 3 — Time Analysis and revenue
 > Cancellations by Month, Hour of Day, and Day of Week
-
-### Page 4 — Location & Revenue
 > Top 10 Pickup locations by cancellations, Payment method distribution, Avg Booking Value by vehicle type
 
 ---
@@ -175,10 +172,8 @@ ola-ride-cancellation-analysis/
 ├── 📊 Ola_NCR_Dashboard.pbix      # Power BI Dashboard file
 ├── 📄 ncr_ride_bookings.csv        # Raw dataset
 ├── 📁 screenshots/                 # Dashboard page screenshots
-│   ├── overview.png
-│   ├── cancellation_analysis.png
+│   ├── Ride_cancellation_analysis.png
 │   ├── time_analysis.png
-│   └── location_revenue.png
 └── 📝 README.md                    # Project documentation
 ```
 
@@ -189,7 +184,7 @@ ola-ride-cancellation-analysis/
 1. Clone this repository
 2. Open `Ola_NCR_Dashboard.pbix` in **Power BI Desktop**
 3. If data doesn't load, update the data source path to your local `ncr_ride_bookings.csv`
-4. Explore all 4 dashboard pages using the slicers to filter by Date and Vehicle Type
+4. Explore both dashboard pages using the slicers to filter by Date and Vehicle Type
 
 ---
 
