@@ -97,10 +97,12 @@ Ola NCR recorded a **32% cancellation rate** in 2024, resulting in an estimated 
 
 > Customer cancellation reasons, Driver cancellation reasons, Treemap by vehicle type, Incomplete ride reasons
 
-### Page 3 — Time Analysis and revenue
+### Page 2 — Time Analysis and revenue
 > Cancellations by Month, Hour of Day, and Day of Week
 > Top 10 Pickup locations by cancellations, Payment method distribution, Avg Booking Value by vehicle type
 
+
+### Page 3 — key insights and recommendations
 ---
 
 ## 🛠️ Tools & Technologies
